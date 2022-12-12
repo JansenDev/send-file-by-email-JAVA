@@ -32,7 +32,7 @@ public class email {
 
             protected PasswordAuthentication getPasswordAuthentication() {
 
-                return new PasswordAuthentication("seguragjj250697@gmail.com", "rfbznyfoptjenkcg");
+                return new PasswordAuthentication("seguragjj250697@gmail.com", "");
 
             }
         });
